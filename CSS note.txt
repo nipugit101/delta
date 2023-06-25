@@ -1,0 +1,3 @@
+CSS
+Display property:
+1.In inline elements margin and padding can be used but it will only work for left and right .....for top n bottom it will not gonna work.
